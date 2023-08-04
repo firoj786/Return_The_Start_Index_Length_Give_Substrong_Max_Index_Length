@@ -19,6 +19,7 @@ import java.util.stream.Stream;
  * 
  * @since 2022-01-05
  */
+
 public class LongestSubString {
 
 //	public static int[] findLongestIdenticalSubstring(String s) {
@@ -74,6 +75,7 @@ public class LongestSubString {
 //		System.out.println(result[0] + ", " + result[1]);
 
 //	}
+
 
 	/**
 	 * the string and find the longest substring having identical characters. The
