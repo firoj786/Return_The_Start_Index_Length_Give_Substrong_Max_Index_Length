@@ -29,7 +29,8 @@ public class LongestSubString {
 //		int maxLength = 1;
 
 //		int start = 0;
-//
+
+
 //		for (int i = 1; i < s.length(); i++) {
 
 //			if (s.charAt(i) == s.charAt(i - 1)) {
@@ -53,7 +54,8 @@ public class LongestSubString {
 //			}
 
 //		}
-//
+
+
 //		if (maxLength > result[1]) {
 
 //			result[0] = start;
@@ -61,11 +63,12 @@ public class LongestSubString {
 //			result[1] = maxLength;
 
 //		}
-//
+
 //		return result;
 
 //	}
-//
+
+
 //	public static void main(String[] args) {
 
 //		String s = "aabbbbbccddb";
